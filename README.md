@@ -1,6 +1,6 @@
 # swap_store
 
-A new Flutter project.
+A flutter project to buy or exchange products.
 
 ## Getting Started
 
@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+NB : les fichiers images ne seront pas affichables car ils seront stockés à la périphérique non sur un serveur.
